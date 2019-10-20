@@ -7,7 +7,7 @@ Typy całkowite służą do przechowywania liczb bez części ułamkowej
 | Typ      |   Wielkość    | Zakres |
 |:---------|:-------------:|:------:|
 | byte     |  1 bajt       | od -128 do 127 |
-| short    |  2 bajty      |   od -32768 do -32767|
+| short    |  2 bajty      |   od -32768 do 32767|
 | int      |  4 bajty      | w przybliżeniu   od -2 * 10<sup>9</sup>  do 2 * 10<sup>9</sup>  |
 | long     |  8 bajtów      |  w przybliżeniu od -9 * 10<sup>18</sup>  do 9 * 10<sup>18</sup>  |
 
