@@ -2,7 +2,8 @@
 
 ## Typy całkowite
 
-Typy całkowite służą do przechowywania liczb bez części ułamkowej
+Typy <span color=Red>całkowite<
+  span> służą do przechowywania liczb bez części ułamkowej
 
 | Typ      |   Wielkość    | Zakres |
 |:---------|:-------------:|:------:|
