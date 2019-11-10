@@ -1,7 +1,6 @@
 # Pierwszy Program "Witaj, Świecie!"
 
 ```Java
-package lekcja1.prog1;
 
 public class HelloWorld {
     public static void main(String[] args){
