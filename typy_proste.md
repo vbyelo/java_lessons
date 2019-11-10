@@ -23,3 +23,18 @@ Typy zmiennoprzecinkowe służą do przechowywania liczb z częścią ułamkowej
 ## Typ char
 
 Typ _char_ reprezentuje "jednostki zapisu" w kodowaniu znaków UTF-16 wykorzystywanym w języku __Java__.  
+
+### Kody specjalne
+
+| Kod      |   Wartość    | 
+|:---------|:-------------:|
+| '\n'     |  przejście do kolejnej linii      | 
+| '\r'     |  powrót do początku wiersza      | 
+| '\t'     |  tabulacja      | 
+| '\b'     |  usunięcie       | 
+
+
+## Typ boolean
+
+Typ _boolean_ ma dwie wartości: __false__ i __true__.
+W języku __Java__ typ _boolean_ nie ma bezpośredioge związku z liczbami całkowitymi _0_ i _1_.
