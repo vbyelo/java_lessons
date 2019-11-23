@@ -1,0 +1,1 @@
+Napisz program, który wyświetla zestawy liczb do Lotto, wybierając sześć różnych liczb z zakresu od 1 do 49. Aby uzyskać sześć różnych liczb, zacznij od stworzenia typu _ArrayList_, wypełnionej wartościami od 1 do 49. Losowo wybierz jedną z liczb i ususń reprezentujący ją elemnt z tablicy. Powtórz to sześć razy. Wyświetl wylosowane liczby uporządkowane rosnąco. 
